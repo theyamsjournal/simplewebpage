@@ -1,6 +1,9 @@
-# simplewebpage
-I am learning how to code html
-<html>
+#
+<!DOCTYPE HTML>
+<html LANG="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta name= "viewport" content+"width=device-width"/>
 <body>
 <h1>Tips for Saving Money as a College Student<h1>
 <h2>Learn easy money management tips</h2>
